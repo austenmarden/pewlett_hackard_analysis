@@ -3,7 +3,7 @@
 ## Overview
 ---
 
-Pewlett Hackard is a large company, having several hundred thousand employees. As Baby Boomers begin to retire, Pewlett Hackard is looking to the future in 2 ways. First, It's offering retirement packages for those who meet certain criteria and second, It's starting to think about which positions will need to be filled in the near future with the number of upcoming retirements creating thousands of opennings. As an HR Analyst, I am tasked with identifying who within the company we can expect to be retiring within the coming years as well as a plan to fill the number of vacanct positions we can expect to need to be filled.
+Pewlett Hackard is a large company, having several hundred thousand employees. As Baby Boomers begin to retire, Pewlett Hackard is looking to the future in 2 ways. First, It's offering retirement packages for those who meet certain criteria and second, It's starting to think about which positions will need to be filled in the near future with the number of upcoming retirements creating thousands of openings. As an HR Analyst, I am tasked with identifying who within the company we can expect to be retiring within the coming years as well as a plan to fill the number of vacant positions we can expect to need to be filled.
 
 ## Results
 ---
